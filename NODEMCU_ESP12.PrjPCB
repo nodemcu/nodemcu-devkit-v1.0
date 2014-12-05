@@ -71,6 +71,86 @@ GenerateClassCluster=0
 DocumentPath=Project Outputs for NODEMCU_ESP12\Design Rule Check - NODEMCU_ESP12.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for NODEMCU_ESP12\NODEMCU_ESP12-RoundHoles-NonPlated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for NODEMCU_ESP12\NODEMCU_ESP12-RoundHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for NODEMCU_ESP12\NODEMCU_ESP12-SlotHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for NODEMCU_ESP12\NODEMCU_ESP12.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for NODEMCU_ESP12\NODEMCU_ESP12.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for NODEMCU_ESP12\NODEMCU_ESP12.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for NODEMCU_ESP12\NODEMCU_ESP12.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for NODEMCU_ESP12\NODEMCU_ESP12.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for NODEMCU_ESP12\NODEMCU_ESP12.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for NODEMCU_ESP12\NODEMCU_ESP12.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for NODEMCU_ESP12\NODEMCU_ESP12.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for NODEMCU_ESP12\NODEMCU_ESP12.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for NODEMCU_ESP12\NODEMCU_ESP12.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for NODEMCU_ESP12\NODEMCU_ESP12.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for NODEMCU_ESP12\NODEMCU_ESP12.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for NODEMCU_ESP12\NODEMCU_ESP12.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for NODEMCU_ESP12\NODEMCU_ESP12.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for NODEMCU_ESP12\NODEMCU_ESP12.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for NODEMCU_ESP12\NODEMCU_ESP12.REP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for NODEMCU_ESP12\NODEMCU_ESP12.RUL
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -1061,46 +1141,52 @@ ComponentUpdate4=0
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
 ComponentLibraryIdentifier5=Vowstar_Basic_Device.IntLib
-ComponentDesignItemID5=SMT_XTAL_PASSIVE
-ComponentSymbolReference5=SMT_XTAL_PASSIVE
-ComponentUpdate5=0
+ComponentDesignItemID5=SMT_TRIODE_NPN
+ComponentSymbolReference5=SMT_TRIODE_NPN
+ComponentUpdate5=1
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=Vowstar_Connector.IntLib
-ComponentDesignItemID6=THT_Male_P_1x15
-ComponentSymbolReference6=THT_Male_P_1x15
-ComponentUpdate6=1
+ComponentLibraryIdentifier6=Vowstar_Basic_Device.IntLib
+ComponentDesignItemID6=SMT_XTAL_PASSIVE
+ComponentSymbolReference6=SMT_XTAL_PASSIVE
+ComponentUpdate6=0
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
 ComponentLibraryIdentifier7=Vowstar_Connector.IntLib
-ComponentDesignItemID7=USB_Micro_5S_B
-ComponentSymbolReference7=USB_Micro_5S_B
-ComponentUpdate7=0
+ComponentDesignItemID7=THT_Male_P_1x15
+ComponentSymbolReference7=THT_Male_P_1x15
+ComponentUpdate7=1
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=Vowstar_IC_General.IntLib
-ComponentDesignItemID8=CH340G
-ComponentSymbolReference8=CH340G
+ComponentLibraryIdentifier8=Vowstar_Connector.IntLib
+ComponentDesignItemID8=USB_Micro_5S_B
+ComponentSymbolReference8=USB_Micro_5S_B
 ComponentUpdate8=0
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
 ComponentLibraryIdentifier9=Vowstar_IC_General.IntLib
-ComponentDesignItemID9=SPX3819
-ComponentSymbolReference9=SPX3819
+ComponentDesignItemID9=CH340G
+ComponentSymbolReference9=CH340G
 ComponentUpdate9=0
 ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name And Type
-ComponentLibraryIdentifier10=Vowstar_Module.IntLib
-ComponentDesignItemID10=ESP_12
-ComponentSymbolReference10=ESP_12
+ComponentLibraryIdentifier10=Vowstar_IC_General.IntLib
+ComponentDesignItemID10=SPX3819
+ComponentSymbolReference10=SPX3819
 ComponentUpdate10=0
 ComponentIsDeviceSheet10=0
 ComponentLibIdentifierKind11=Library Name And Type
-ComponentLibraryIdentifier11=Vowstar_Switch.IntLib
-ComponentDesignItemID11=SMT_SW_PTS_820
-ComponentSymbolReference11=SMT_SW_PTS_820
+ComponentLibraryIdentifier11=Vowstar_Module.IntLib
+ComponentDesignItemID11=ESP_12
+ComponentSymbolReference11=ESP_12
 ComponentUpdate11=0
 ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=Vowstar_Switch.IntLib
+ComponentDesignItemID12=SMT_SW_PTS_820
+ComponentSymbolReference12=SMT_SW_PTS_820
+ComponentUpdate12=0
+ComponentIsDeviceSheet12=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1150,23 +1236,26 @@ ModelType6=PCBLIB
 ModelName6=SMT_SW_PTS_820
 ModelUpdate6=1
 ModelType7=PCBLIB
-ModelName7=SMT_XTAL_2520
+ModelName7=SMT_TRIODE_NPN
 ModelUpdate7=1
 ModelType8=PCBLIB
-ModelName8=SMT_XTAL_3225
+ModelName8=SMT_XTAL_2520
 ModelUpdate8=1
 ModelType9=PCBLIB
-ModelName9=SOP-16
+ModelName9=SMT_XTAL_3225
 ModelUpdate9=1
 ModelType10=PCBLIB
-ModelName10=SOT23-5
+ModelName10=SOP-16
 ModelUpdate10=1
 ModelType11=PCBLIB
-ModelName11=THT_Male_P_1x15-2.54mm
+ModelName11=SOT23-5
 ModelUpdate11=1
 ModelType12=PCBLIB
-ModelName12=USB_MICRO_5S_B
+ModelName12=THT_Male_P_1x15-2.54mm
 ModelUpdate12=1
+ModelType13=PCBLIB
+ModelName13=USB_MICRO_5S_B
+ModelUpdate13=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
