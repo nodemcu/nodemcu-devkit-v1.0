@@ -1,7 +1,9 @@
 nodemcu-devkit
 ==============
 
-A development kit for NodeMCU firmware
+A development kit for NodeMCU firmware.
+
+![DEVKIT](https://raw.githubusercontent.com/nodemcu/nodemcu-devkit/master/Documents/NODEMCU_DEVKIT_V0.9.jpg)
 
 It is an open hardware.
 
