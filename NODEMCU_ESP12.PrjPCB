@@ -28,7 +28,7 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=Project Outputs for NODEMCU_ESP12
+OutputPath=
 LogFolderPath=
 
 [Preferences]
@@ -113,7 +113,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for NODEMCU_ESP12
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
