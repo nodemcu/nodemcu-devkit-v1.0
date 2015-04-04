@@ -85,7 +85,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GRFCYDTY
+DocumentUniqueId=CISJEGFB
 
 [Document4]
 DocumentPath=04_POWER.SchDoc
@@ -136,7 +136,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BKYLVINL
+DocumentUniqueId=DYHDFNIQ
 
 [Document7]
 DocumentPath=07_ADC.SchDoc
@@ -153,7 +153,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GIEKFVAJ
+DocumentUniqueId=OBVHMBRF
 
 [Document8]
 DocumentPath=NODEMCU_DEVKIT_V1.0.PcbDoc
@@ -171,90 +171,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MHSQQBSA
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\Design Rule Check - NODEMCU_DEVKIT_V1.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0-RoundHoles-NonPlated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0-RoundHoles-Plated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0-SlotHoles-Plated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.REP
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.RUL
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration

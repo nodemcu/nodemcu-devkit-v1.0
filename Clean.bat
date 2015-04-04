@@ -12,6 +12,7 @@ del *.REP
 del *.RUL
 del *.APR_LIB
 del "Status Report.Txt"
+del *.Dat
 rd History /s/q
 rd __Previews /s/q
 for /D %%a in ("Project Logs for*") do rd "%%a" /s/q
