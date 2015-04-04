@@ -173,7 +173,83 @@ GenerateClassCluster=0
 DocumentUniqueId=MHSQQBSA
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\Design Rule Check - NODEMCU_DEVKIT_V1.html
+DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0-RoundHoles-NonPlated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0-RoundHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0-SlotHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.REP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.RUL
 DItemRevisionGUID=
 
 [Configuration1]
@@ -522,7 +598,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=∑¢ÀÕ÷¡ OneNote 2013
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
