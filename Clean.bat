@@ -11,6 +11,7 @@ del *.LDP
 del *.REP
 del *.RUL
 del *.APR_LIB
+del *.Dat
 del "Status Report.Txt"
 del *.Dat
 rd History /s/q
