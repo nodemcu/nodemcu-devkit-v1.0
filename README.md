@@ -11,7 +11,7 @@ It is an open hardware, with ESP-12-E core (4MBytes flash version).
 
 Pin map with ESP-12-E.
 
-![SCH](https://raw.githubusercontent.com/nodemcu/nodemcu-devkit-v1.0/master/Documents/NODEMCU-DEVKIT-INSTRUCTION-EN.png)
+![PIN MAP](https://raw.githubusercontent.com/nodemcu/nodemcu-devkit-v1.0/master/Documents/NODEMCU_DEVKIT_V1.0_PINMAP.png)
 
 It is designed by Altium Designer, and fully open–source. Now everyone can make their own NODEMCU.
 
