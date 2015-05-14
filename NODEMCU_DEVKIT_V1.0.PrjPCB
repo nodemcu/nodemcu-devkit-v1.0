@@ -28,7 +28,7 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=
+OutputPath=Project Outputs for NODEMCU_DEVKIT_V1.0
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -85,7 +85,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TVWNUVLH
+DocumentUniqueId=WALLPFKG
 
 [Document4]
 DocumentPath=04_POWER.SchDoc
@@ -136,7 +136,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=APEYSSFS
+DocumentUniqueId=PJRMAGHV
 
 [Document7]
 DocumentPath=07_ADC.SchDoc
@@ -153,7 +153,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=STCPBOXR
+DocumentUniqueId=QEMYUAUG
 
 [Document8]
 DocumentPath=NODEMCU_DEVKIT_V1.0.PcbDoc
@@ -171,86 +171,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MHSQQBSA
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0-RoundHoles-NonPlated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0-RoundHoles-Plated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0-SlotHoles-Plated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.REP
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.RUL
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
@@ -276,7 +196,7 @@ AddNetPorts=-1
 ShowComponentParameters=-1
 GlobalBookmarks=0
 ExportBOM=-1
-TemplateFilename=Board Stack Report.XLT
+TemplateFilename=BOM Default Template.XLT
 TemplateStoreRelative=-1
 PCB_PrintColor=0
 SCH_PrintColor=0
@@ -299,7 +219,7 @@ SaveSettingsToOutJob=0
 PrintQuality=-3
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for NODEMCU_DEVKIT_V1.0
 
 [OutputGroup1]
 Name=Netlist Outputs
