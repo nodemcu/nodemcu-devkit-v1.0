@@ -7,7 +7,7 @@ It will make NodeMCU more easy. With a micro USB cable, you can connect NodeMCU 
 
 ![DEVKIT](https://raw.githubusercontent.com/nodemcu/nodemcu-devkit-v1.0/master/Documents/NodeMCU_DEVKIT_1.0.jpg)
 
-It is an open hardware, with ESP-12-E core (4MBytes flash version).
+It is an open hardware, with ESP-12-E core [32Mbits(4MBytes) flash version].
 
 ##How to flash
 
