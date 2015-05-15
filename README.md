@@ -9,7 +9,7 @@ It will make NodeMCU more easy. With a micro USB cable, you can connect NodeMCU 
 
 It is an open hardware, with ESP-12-E core (4MBytes flash version).
 
-==How to flash==
+##How to flash
 
 Our new firmware download tool is in developing.Please use latest flash download tool from espressif.
 http://bbs.espressif.com/viewtopic.php?f=5&t=433
@@ -17,7 +17,7 @@ Please use DIO mode and 32M flash size option, and flash latest firmware to 0x00
 Before flashing firmware, please hold FLASH button, and press RST button once.
 When our firmware download tool released, it will flash firmware automatically and needn't press any button.
 
-==Pin map==
+##Pin map
 
 ![PIN MAP](https://raw.githubusercontent.com/nodemcu/nodemcu-devkit-v1.0/master/Documents/NODEMCU_DEVKIT_V1.0_PINMAP.png)
 
