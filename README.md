@@ -10,8 +10,14 @@ It will make NodeMCU more easy. With a micro USB cable, you can connect NodeMCU 
 It is an open hardware, with ESP-12-E core [32Mbits(4MBytes) flash version].
 
 ##How to flash
-
-Our new firmware download tool is in developing.Please use latest flash download tool from espressif.
+- - - - - -
+UPDATE
+New nodemcu-flasher is released.
+Bug fixed. please use latest software and re-flash.
+Enjoy.
+https://github.com/nodemcu/nodemcu-flasher
+- - - - - -
+If always have problem, please use latest flash download tool from espressif.
 http://bbs.espressif.com/viewtopic.php?f=5&t=433
 Please use DIO mode and 32M flash size option, and flash latest firmware to 0x00000.
 Before flashing firmware, please hold FLASH button, and press RST button once.
